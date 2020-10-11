@@ -1,0 +1,31 @@
+body {
+    background: #500808;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.assignment {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: white;
+}
+
+.assignment img {
+  width: 200px; 
+  border: 1px solid whitesmoke;
+  margin-right: 20px; 
+}
+
+h1 {
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+
+h2 {
+    color:#500808 ;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
