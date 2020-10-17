@@ -8,12 +8,16 @@ body {
     padding: 10px;
     margin: 10px;
     background: white;
+    border-radius: 15px;
+    box-shadow: 8px 10px #000000;
+    margin-bottom: 35px;
 }
 
 .assignment img {
   width: 200px; 
-  border: 1px solid whitesmoke;
+  border: 1px solid rgb(110, 103, 103);
   margin-right: 20px; 
+  border-radius: 5px;
 }
 
 h1 {
@@ -27,5 +31,9 @@ h2 {
 
 a{
     text-decoration: none;
+    color: black;
+}
+
+.assignment a :hover {
     color: black;
 }
